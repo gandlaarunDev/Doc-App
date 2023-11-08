@@ -9,3 +9,8 @@ This is a Web Application that is used to maintain and process the information r
 - [ ] Figma design for Mobile
 - [ ] Figma design for Tablet
 - [ ] Figma Design for Laptop and higher screens
+- [X] OrderID Generation logic
+- [ ] video calling Feature
+- [ ] payment Gateway
+- [ ] messagin Feature
+- [ ] Print preview Feature
