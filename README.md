@@ -19,7 +19,7 @@ Design
 - [x] Layout for Mobile
 - [ ] Layout for Tablet
 - [ ] Layout for Lapotop and Higher versions.
-- [ ] Figma design for Mobile
+- [x] Figma design for Mobile
 - [ ] Figma design for Tablet
 - [ ] Figma Design for Laptop and higher screens
 
