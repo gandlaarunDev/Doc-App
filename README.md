@@ -29,3 +29,8 @@ BackEnd
 - [ ] payment Gateway
 - [ ] messagin Feature
 - [ ] Print preview Feature
+
+####Note:
+- We have maintained file structure related to the type and usage of it.
+- For all the backend files are maintained in Backend folder.
+- For all the reactJs files and resource like images, logos, icons etc are also maintained in the same file name <b>i.e, FrontEnd files</b>
