@@ -3,6 +3,6 @@ import React from "react";
 
 export default function App(){
     return (
-        <h1>Doc Assist App</h1>
+        <h1>Doc Assist App.</h1>
     );
 }
