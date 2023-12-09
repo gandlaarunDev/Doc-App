@@ -35,4 +35,4 @@ BackEnd
 - All the backend files are maintained in the Backend folder.
 - All the ReactJs files and resources like images, logos, icons, etc are also maintained in the same file name <b>i.e, FrontEnd files</b>
 
-Thank You.
+Thankyou.
