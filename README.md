@@ -17,10 +17,10 @@ This is a Web Application that is used to maintain and process the information r
 
 Design
 - [x] Layout for Mobile
-- [ ] Layout for Tablet
-- [ ] Layout for Laptop and Higher versions.
+- [X] Layout for Tablet
+- [] Layout for Laptop and Higher versions.
 - [x] Figma design for Mobile
-- [ ] Figma design for Tablet
+- [x] Figma design for Tablet
 - [ ] Figma Design for Laptop and higher screens
 
 BackEnd
