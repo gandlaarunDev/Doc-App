@@ -18,7 +18,7 @@ This is a Web Application that is used to maintain and process the information r
 Design
 - [x] Layout for Mobile
 - [X] Layout for Tablet
-- [] Layout for Laptop and Higher versions.
+- [ ] Layout for Laptop and Higher versions.
 - [x] Figma design for Mobile
 - [x] Figma design for Tablet
 - [ ] Figma Design for Laptop and higher screens
