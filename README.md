@@ -36,3 +36,10 @@ BackEnd
 - We have maintained file structure related to the type and usage of it.
 - All the backend files are maintained in the Backend folder.
 - All the ReactJs files and resources like images, logos, icons, etc are also maintained in the same file name <b>i.e, FrontEnd files</b>
+## Rules to create a Pull request:
+- Create a separate branch stating the purpose clearly as per the industry stands.
+- Once a new seperate branch is created a pull Request(please follow the template mentioned).
+- Summit your pull request to be pulled into development(not to main). Once the codes are reviewed the code is pushed into main on specific intervals.
+
+> [!WARNING]  
+> If any PR submitted to main will be asked to raise again to development/ if not PR will be rejected.
