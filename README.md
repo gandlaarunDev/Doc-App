@@ -1,7 +1,9 @@
 # Doc-App
 This is a Web Application that is used to maintain and process the information regarding the clinical treatments.
->Presently the UI Layout for mobile is done and the tablet needs to be done. whereas for the laptop and higher screens, the layout needs to be rearranged.
+>Please follow and raise any corrections/issues to be made in the below FIGMA file.
 ---
+### Design Document
+Figma Link: [DoC App](https://www.figma.com/file/7rlepnWdIUTA8hLoU8czVG/DoC-App?type=design&node-id=0%3A1&mode=dev&t=M7dYqMqG9Q8htrF4-1)
 ### Using Resources
 | Name of the Resource | Using/Planned |
 | ----------- | ----------- |
@@ -18,10 +20,10 @@ This is a Web Application that is used to maintain and process the information r
 Design
 - [x] Layout for Mobile
 - [X] Layout for Tablet
-- [ ] Layout for Laptop and Higher versions.
+- [x] Layout for Laptop and Higher versions.
 - [x] Figma design for Mobile
 - [x] Figma design for Tablet
-- [ ] Figma Design for Laptop and higher screens
+- [X] Figma Design for Laptop and higher screens
 
 BackEnd
 - [X] OrderID Generation logic
