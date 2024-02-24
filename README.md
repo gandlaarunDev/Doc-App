@@ -42,7 +42,7 @@ BackEnd
 - Submit your pull request to be pulled into development(not to main). Once the codes are reviewed the code is pushed into main on specific intervals.
 
 > [!WARNING]  
-> If any PR is submitted to the main will be asked to be raised again to development/ if not PR will be rejected.
+> If any PR is submitted to the main will be reviewed and checked for compliance of our code.
 
 # Contribution Guidelines
 
@@ -50,9 +50,9 @@ Before pushing your code changes, please review the following guidelines:
 
 ## Branching Strategy
 
-- **Development Branch:**
-  - All code changes should be pushed to the `development` branch.
-  - Create feature branches based on `development` for new features or bug fixes.
+- **Main Branch:**
+  - All code changes should be pushed to the `main` branch.
+  - Create feature branches based on `main` for new features or bug fixes.
 
 ## Pull Requests
 
@@ -66,7 +66,7 @@ Before pushing your code changes, please review the following guidelines:
   - Push your changes to your branch in your fork.
 
 - **Submit a Pull Request:**
-  - Create a pull request from your branch to the `development` branch in the main repository.
+  - Create a pull request from your branch to the `main` branch in the main repository.
 
 - **Description:**
   - Provide a clear and concise description of your changes in the pull request.
