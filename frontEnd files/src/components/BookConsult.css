@@ -1,0 +1,40 @@
+.bookConsultation{
+    background-color: #04ADBF;
+    width: 90%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left: 4%;
+    border-radius: 10px;
+}
+
+.bookConsultation p{
+    margin: 0 5%;
+    color: whitesmoke;
+    line-height: 1.57rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.bookConsultation p span{
+    display: block;
+    color: #0C3151;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    margin-bottom: 2%;
+}
+
+.bookConsultation button{
+    background-color: #BF907E;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin: 2% 5% 0 5%;
+    padding: 3% 0 3% 0;
+    width: 85%;
+    height: 36px;
+    font-weight: 550;
+    font-family: inherit;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
