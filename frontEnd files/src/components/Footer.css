@@ -1,0 +1,24 @@
+.footer{
+    background-color: #04ADBF;
+    height: 12vh;
+    color: white;
+}
+
+.copyRightBar{
+    display: flex;
+    background-color: #347EBF;
+    height: 30%;
+    align-items: center;
+    padding: 1%;
+    
+}
+
+.copyRightBar img{
+    width: 1rem;
+    margin: 1%;
+}
+
+.copyRightBar h3{
+    font-size: 1rem;
+    letter-spacing: 1px;
+}
