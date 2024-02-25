@@ -1,6 +1,7 @@
 import Header from './components/Header';
 import DoctorCard from './components/DoctorCard';
 import BookConsult from './components/BookConsult';
+import MapCard from './components/MapCard';
 
 import './App.css';
 
@@ -10,6 +11,7 @@ function App() {
       <Header/>
       <DoctorCard/>
       <BookConsult/>
+      <MapCard/>
     </>
   );
 }
